@@ -2,10 +2,10 @@
 
 ## Author
 
-Alessandro VAlvo with additions by (attendee name)
+Alessandro Valvo with additions by (attendee name)
 
 
-##License
+## License
 
 MIT License
 
